@@ -1,0 +1,28 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.Intro-style {
+  height: 150px;
+  width: 150px;
+}
+
+.Title1 {
+  color: #12022f;
+  font-size: 23px;
+  font-family: 'Roboto';
+}
+
+.description {
+  color: #616e7c;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.Intro-container {
+  padding: 15px;
+}
